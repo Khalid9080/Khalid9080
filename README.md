@@ -1,12 +1,9 @@
-<div align="center">
-  <img height="300" src="https://i.ibb.co.com/DP3z3G9T/1709991525351.gif"  />
-</div>
+
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="center" alt="Coding Me" src="https://i.ibb.co.com/zhC0nBfv/Animation-1741626971825.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid9080&label=Profile%20views&color=0e75b6&style=flat" alt="khalid9080" /> </p>
-
 
 
 ###
@@ -16,6 +13,13 @@
 ###
 
 <p align="left">I'm a passionate and dedicated MERN Stack Developer with a strong focus on creating innovative web applications. With expertise in HTML, CSS, JavaScript (ES6), React, Tailwind, and Next.js, I've built a variety of projects that reflect my skills and creativity. 💻✨<br><br>I love solving coding challenges and enjoy working on projects that help improve people's lives through technology. 💡 Whether it's building interactive web apps or optimizing user experiences, I am always striving to enhance my craft and learn new technologies. 🚀</p>
+
+###
+
+
+###
+
+<h2 align="center">Trophies</h2>
 
 ###
 
