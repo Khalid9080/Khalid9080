@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on [BlissBonds](https://bliss-bonds.web.app)
 
-- 🌱 I’m currently learning **Next JS, Mearn Stack**
+- 🌱 I’m currently learning **Next JS, Mern Stack**
 
 - 👯 I’m looking to collaborate on [GadgetHeaven](https://khalid-gadget-heaven.netlify.app)
 
