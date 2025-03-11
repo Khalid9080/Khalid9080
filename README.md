@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Khalid Saifullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co.com/FqgM7zZD/Black-Futuristic-Animated-Programmer-Presentation.png" alt="Banner Image">
+</p>
+
 <p align="center"> <img alt="Coding Me" src="https://i.ibb.co.com/zhC0nBfv/Animation-1741626971825.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid9080&label=Profile%20views&color=0e75b6&style=flat" alt="khalid9080" /> </p>
