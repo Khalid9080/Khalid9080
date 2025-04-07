@@ -10,6 +10,8 @@
 <p align="center"> <img alt="Coding Me" src="https://i.ibb.co.com/zhC0nBfv/Animation-1741626971825.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid9080&label=Profile%20views&color=0e75b6&style=flat" alt="khalid9080" /> </p>
+![SavePalestine](https://raw.githubusercontent.com/.../save-palestine.svg)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 
 ###
