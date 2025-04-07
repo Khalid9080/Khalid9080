@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid9080&label=Profile%20views&color=0e75b6&style=flat" alt="khalid9080" /> </p>
 <p align="center">
-  <a href="https://techforpalestine.org/learn-more" target="_blank">
+  <a>
     <img src="https://i.ibb.co/RT0DWZ4/Stand-With-Palestine.png" width="100%" alt="Stand With Palestine">
   </a>
 </p>
